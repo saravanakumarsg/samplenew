@@ -1,0 +1,3 @@
+com.tibco.bw.core.design.wizardDefaults.createSchemaOption=com.tibco.bw.core.design.create_new_schema
+com.tibco.bw.core.design.wizardDefaults.createWsdlOption=com.tibco.bw.core.design.create_new_wsdl
+eclipse.preferences.version=1

@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+schema.creation.targetNamespace=http\://www.example.org/schema
+schema.creation.targetNamespacePrefix=tns
+wsdl.creation.containerPath=FirstSample/Service Descriptors
+wsdl.creation.createOutput=true
+wsdl.creation.operationName=operation
+wsdl.creation.targetNamespace=http\://www.example.org/wsdl
+wsdl.creation.targetNamespacePrefix=tns
